@@ -51,6 +51,7 @@ g.adopt(r.motion_id, "A1")        # 共同体の採決が通ったあとに呼�
 print(g.get_community_health())
 print(g.anchor_line())            # 外へ残す一行
 ```
+- [interest_redirector.py](interest_redirector.py) — 関心の招待（[README](README_interest_redirector.md)）
 
 ### 限界
 - 利益・関係者の申告は自己申告です。名義貸しや、別人格に見せたAIの複製は見抜けません。
